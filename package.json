@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest",
-    "test:staged":"jest",
+    "test": "jest --passWithNoTests",
+    "test:staged":"jest --passWithNoTests",
     "prepare": "husky install"
   },
   "repository": {
@@ -30,7 +30,7 @@
   },
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^4.0.1",
-    "eslint-config-standard-with-typescript": "^21.0.1",
+    "eslint-config-standard-with-typescript": "^21.0.0",
     "eslint-plugin-import": "^2.22.1",
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-promise": "^5.0.0",
