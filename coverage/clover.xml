@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1642434130281" clover="3.2.0">
-  <project timestamp="1642434130282" name="All files">
+<coverage generated="1642434316217" clover="3.2.0">
+  <project timestamp="1642434316218" name="All files">
     <metrics statements="5" coveredstatements="0" conditionals="1" coveredconditionals="0" methods="1" coveredmethods="0" elements="7" coveredelements="0" complexity="0" loc="5" ncloc="5" packages="1" files="1" classes="1"/>
     <file name="teste.ts" path="C:\Users\north\Desktop\Linguagem\PROJETOS\clean-node-api\src\teste.ts">
       <metrics statements="5" coveredstatements="0" conditionals="1" coveredconditionals="0" methods="1" coveredmethods="0"/>
