@@ -22,7 +22,6 @@ describe('SignUp Controllers', () => {
         name: 'any_name',
         password: 'any_password',
         passwordConfirmation: 'any_password'
-
       }
     }
     const httpResponse = sut.handle(httpRequest)
