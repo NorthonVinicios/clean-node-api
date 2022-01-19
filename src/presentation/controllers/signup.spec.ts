@@ -2,6 +2,7 @@ import { SignUpController } from './signup'
 
 describe('SignUp Controllers', () => {
   test('Should return 400 if no name is provide', () => {
+    // sut = system under tested
     const sut = new SignUpController()
     const httpRequest = {
       body: {
